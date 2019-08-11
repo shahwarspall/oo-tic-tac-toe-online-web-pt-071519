@@ -3,6 +3,6 @@ class TicTacToe
     @board = board || Array.new(9, " ")
   end
   def WIN_COMBINATIONS
-    @board.size 
+    @board.size(Array)
   end 
 end
