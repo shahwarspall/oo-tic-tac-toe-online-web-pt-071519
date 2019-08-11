@@ -4,4 +4,5 @@ class TicTacToe
   end
   def WIN_COMBINATIONS
     @board.size 
+  end 
 end
